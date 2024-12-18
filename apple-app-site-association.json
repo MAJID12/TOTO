@@ -1,1 +1,56 @@
-{"webcredentials":{"apps":["WR8U847DPN.com.tf1.applitf1"]},"activitycontinuation":{"apps":["WR8U847DPN.com.tf1.applitf1"]},"applinks":{"apps":["WR8U847DPN.com.tf1.applitf1"],"details":[{"appID":"WR8U847DPN.com.tf1.applitf1","paths":["NOT /*/news/*","NOT /*/espace-de-confiance*","/tf1/*/videos/*","/tfx/*/videos/*","/tmc/*/videos/*","/tf1-series-films/*/videos/*","/tf1/*","/tfx/*","/tmc/*","/tf1-series-films/*","/tf1/*/videos","/tfx/*/videos","/tmc/*/videos","/tf1-series-films/*/videos","/programmes-tv","/programmes-tv/*","/tf1/programmes-tv","/tfx/programmes-tv","/tmc/programmes-tv","/tf1-series-films/programmes-tv","/replay","/tf1/replay","/tfx/replay","/tmc/replay","/tf1-series-films/replay","/","/offre-max","/collections/*","/tv","/*/direct","/tv/login","/tv/pairing","/*/*/vote"]}]}}
+{
+  "webcredentials": {
+    "apps": [
+      "WR8U847DPN.com.tf1.applitf1"
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "WR8U847DPN.com.tf1.applitf1"
+    ]
+  },
+  "applinks": {
+    "apps": [
+      "WR8U847DPN.com.tf1.applitf1"
+    ],
+    "details": [
+      {
+        "appID": "WR8U847DPN.com.tf1.applitf1",
+        "paths": [
+          "NOT /*/news/*",
+          "NOT /*/espace-de-confiance*",
+          "/*/*/videos/*",,
+          "/tf1-series-films/*/videos/*",
+          "/tf1/*",
+          "/tfx/*",
+          "/tmc/*",
+          "/tf1-series-films/*",
+          "/arte/*/videos",
+          "/tf1/*/videos",
+          "/tfx/*/videos",
+          "/tmc/*/videos",
+          "/tf1-series-films/*/videos",
+          "/programmes-tv",
+          "/programmes-tv/*",
+          "/tf1/programmes-tv",
+          "/tfx/programmes-tv",
+          "/tmc/programmes-tv",
+          "/tf1-series-films/programmes-tv",
+          "/replay",
+          "/tf1/replay",
+          "/tfx/replay",
+          "/tmc/replay",
+          "/tf1-series-films/replay",
+          "/",
+          "/offre-max",
+          "/collections/*",
+          "/tv",
+          "/*/direct",
+          "/tv/login",
+          "/tv/pairing",
+          "/*/*/vote"
+        ]
+      }
+    ]
+  }
+}
